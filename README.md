@@ -12,8 +12,8 @@ export default class UserCardinot {
  const name = "Lucas Cardinot da Silva";
  var acknowledgements = "dev";
 
- var languages = { "Java", "HTML", "React", "React Native",
-                  "C", "Python", "JavaScript", "TypeScript"}; 
+ var languages = { "Java", "React", "React Native",
+                  "C#", "Python", "JavaScript", "TypeScript"}; 
 }
 ```
 
