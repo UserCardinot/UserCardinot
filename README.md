@@ -1,7 +1,10 @@
-# Olá, eu sou o Lucas 👋
+# Hi, I'm Lucas 👋
 
-Estudante de Engenharia de Computação - UTFPR 💻
-Desenvolvedor de software, apaixonado por novas tecnologias.
+**B.S. in Computer Engineering @ UTFPR** 🎓  
+**Software Developer** with 2 years of experience 💻  
+*"Constantly creating and learning from life."* 🌱
+
+---
 
 ## 🖊 **About me**
 
