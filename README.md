@@ -1,6 +1,26 @@
-# Lucas Cardinot da Silva
+<h1>
+<a href="mailto:lucascardinot2000@gmail.com"><img align="right" height="32" hspace="4" alt="Email" src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/lucascardinot/"><img align="right" height="32" hspace="4" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
+Lucas Cardinot da Silva
+</h1>
 
-<img align="right" width="240" hspace="16" alt="Coding skills loading" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" />
+<table align="right">
+  <tr>
+    <td align="center">
+      <img width="250" alt="Coding skills loading" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" /><br>
+      <sub>Languages</sub><br>
+      <img width="210" alt="Java, C#, Python, JavaScript and TypeScript" src="https://skillicons.dev/icons?i=java,cs,py,js,ts&amp;perline=5" /><br>
+      <sub>Frameworks</sub><br>
+      <img width="100" alt="Spring and React" src="https://skillicons.dev/icons?i=spring,react&amp;perline=2" /><br>
+      <sub>Databases</sub><br>
+      <img width="150" alt="PostgreSQL, MySQL and MongoDB" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&amp;perline=3" /><br>
+      <sub>IDEs</sub><br>
+      <img width="150" alt="Eclipse, VS Code and Visual Studio" src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio&amp;perline=3" /><br>
+      <sub>Git</sub><br>
+      <img width="100" alt="Git and GitHub" src="https://skillicons.dev/icons?i=git,github&amp;perline=2" />
+    </td>
+  </tr>
+</table>
 
 **B.S. in Computer Engineering at UTFPR**
 
@@ -8,39 +28,26 @@ Software developer with 2 years of experience.
 
 *Constantly creating and learning from life.*
 
+<p>────────────────────────</p>
+
+**PopcornHub** is a React Native app for browsing popular films,<br>
+categories and a favorites list. [Repository](https://github.com/UserCardinot/Serratec_ReactNative_Grupo)
+
+**E-commerce API** is a Spring REST API for products, clients and orders,<br>
+with JWT authentication. [Repository](https://github.com/UserCardinot/G1_API_Serratec)
+
+**Wedding site** is the page for my wedding, built in TypeScript<br>
+and already online. [Live](https://casamento-jet.vercel.app) · [Repository](https://github.com/UserCardinot/MeuCasamento)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=UserCardinot&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;rank_icon=github" />
+  <img align="top" width="260" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=UserCardinot&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f&amp;rank_icon=github" />
+</picture>&nbsp;<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UserCardinot&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=467&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
+  <img align="top" width="260" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserCardinot&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=467&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=24292f" />
+</picture>
+
 <br clear="right"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucascardinot/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:lucascardinot2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" /></a>
-</p>
-
-<img align="right" width="240" hspace="16" alt="Java, Spring, React, C#, Python, JavaScript, TypeScript, PostgreSQL, MySQL, MongoDB, Git, GitHub, Eclipse, VS Code and Visual Studio" src="https://skillicons.dev/icons?i=java,spring,react,cs,py,js,ts,postgres,mysql,mongodb,git,github,eclipse,vscode,visualstudio&amp;perline=4" />
-
-**PopcornHub** is a React Native app for browsing popular films, categories and a favorites list. [Repository](https://github.com/UserCardinot/Serratec_ReactNative_Grupo)
-
-—
-
-**E-commerce API** is a Spring REST API for products, clients and orders, with JWT authentication. [Repository](https://github.com/UserCardinot/G1_API_Serratec)
-
-—
-
-**Wedding site** is the page for my wedding, built in TypeScript and already online. [Live](https://casamento-jet.vercel.app) · [Repository](https://github.com/UserCardinot/MeuCasamento)
-
-<br clear="right"/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=UserCardinot&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;rank_icon=github" />
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=UserCardinot&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f&amp;rank_icon=github" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UserCardinot&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
-    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserCardinot&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=24292f" />
-  </picture>
-</p>
 
 <p align="center">
   <picture>
