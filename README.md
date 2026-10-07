@@ -16,7 +16,7 @@ Software developer with 2 years of experience.
   <a href="mailto:lucascardinot2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" /></a>
 </p>
 
-<img align="right" width="240" hspace="16" alt="Java, Spring, React, C#, Python, JavaScript and TypeScript" src="https://skillicons.dev/icons?i=java,spring,react,cs,py,js,ts&amp;perline=4" />
+<img align="right" width="240" hspace="16" alt="Java, Spring, React, C#, Python, JavaScript, TypeScript, PostgreSQL, MySQL, MongoDB, Git, GitHub, Eclipse, VS Code and Visual Studio" src="https://skillicons.dev/icons?i=java,spring,react,cs,py,js,ts,postgres,mysql,mongodb,git,github,eclipse,vscode,visualstudio&amp;perline=4" />
 
 **PopcornHub** is a React Native app for browsing popular films, categories and a favorites list. [Repository](https://github.com/UserCardinot/Serratec_ReactNative_Grupo)
 
