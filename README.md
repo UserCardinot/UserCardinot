@@ -1,39 +1,34 @@
-# Hi, I'm Lucas
+# Lucas Cardinot da Silva
 
-**Lucas Cardinot da Silva**  
-B.S. in Computer Engineering at UTFPR  
-Software developer with 2 years of experience
+<img align="right" width="240" hspace="16" alt="Coding skills loading" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" />
+
+**B.S. in Computer Engineering at UTFPR**
+
+Software developer with 2 years of experience.
 
 *Constantly creating and learning from life.*
 
----
-
-## About me
+<br clear="right"/>
 
 <p align="center">
-  <img width="260" alt="Coding" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" />
+  <a href="https://www.linkedin.com/in/lucascardinot/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:lucascardinot2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" /></a>
 </p>
 
-## Tech stack
+<img align="right" width="240" hspace="16" alt="Java, Spring, React, C#, Python, JavaScript and TypeScript" src="https://skillicons.dev/icons?i=java,spring,react,cs,py,js,ts&amp;perline=4" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,react,cs,py,js,ts&theme=dark" />
-    <img alt="Java, Spring, React, C#, Python, JavaScript and TypeScript" src="https://skillicons.dev/icons?i=java,spring,react,cs,py,js,ts&theme=light" />
-  </picture>
-</p>
+**PopcornHub** is a React Native app for browsing popular films, categories and a favorites list. [Repository](https://github.com/UserCardinot/Serratec_ReactNative_Grupo)
 
-<p align="center">
-  Java · Spring · React · React Native · C# · Python · JavaScript · TypeScript
-</p>
+—
 
-## MVP Projects
+**E-commerce API** is a Spring REST API for products, clients and orders, with JWT authentication. [Repository](https://github.com/UserCardinot/G1_API_Serratec)
 
-- [API Rest — Java Spring](https://github.com/UserCardinot/G1_API_Serratec)
-- [Front End — React](https://github.com/UserCardinot/Serratec_React)
-- [Front End — React Native](https://github.com/UserCardinot/Serratec_ReactNative_Grupo)
+—
 
-## GitHub
+**Wedding site** is the page for my wedding, built in TypeScript and already online. [Live](https://casamento-jet.vercel.app) · [Repository](https://github.com/UserCardinot/MeuCasamento)
+
+<br clear="right"/>
 
 <p align="center">
   <picture>
