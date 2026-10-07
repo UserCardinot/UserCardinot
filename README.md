@@ -28,7 +28,7 @@ Software developer with 2 years of experience.
 
 *Constantly creating and learning from life.*
 
-<p>────────────────────────</p>
+<p>─────────────────────────────────────────────────────</p>
 
 **PopcornHub** is a React Native app for browsing popular films, categories<br>
 and a favorites list. [Repository](https://github.com/UserCardinot/Serratec_ReactNative_Grupo)
