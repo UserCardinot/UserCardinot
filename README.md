@@ -43,10 +43,10 @@ already online. [Live](https://casamento-jet.vercel.app) · [Repository](https:/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=UserCardinot&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;rank_icon=github" />
-  <img align="top" width="300" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=UserCardinot&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f&amp;rank_icon=github" />
+  <img align="top" width="260" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=UserCardinot&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f&amp;rank_icon=github" />
 </picture>&nbsp;<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UserCardinot&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=500&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
-  <img align="top" width="300" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserCardinot&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=500&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=24292f" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UserCardinot&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=467&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
+  <img align="top" width="260" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserCardinot&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=467&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=24292f" />
 </picture>
 
 <br clear="right"/>
